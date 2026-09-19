@@ -11,7 +11,9 @@
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-Production-blue?logo=kubernetes)](https://kubernetes.io/)
 
 ---
-
+<p align="center">
+  <img src="./architecture.png" alt="Production RAG Chatbot Architecture" width="100%">
+</p>
 ## 📌 Overview
 
 This project is a reusable **RAG-based AI chatbot architecture** designed to answer questions from a controlled knowledge base rather than relying purely on an LLM's internal knowledge.
